@@ -17,6 +17,8 @@ Below you will see my technical skills that I have acquired in the projects.
 ## Certificates:
 <img width="150" height="150" alt="hashicorp-certified-terraform-associate-003-2" src="https://github.com/user-attachments/assets/f14be36a-c3c7-4e43-8e30-5944294952cc" />
 <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/da28ad01-87b8-451d-af49-958aa88c64e5" />
+<img width="150" height="150" alt="CCNAITN__1_" src="https://github.com/user-attachments/assets/5b9cd53e-5844-4573-b92c-20e7537629b7" />
+
 
 ## Incoming Certificates:
 <img width="150" height="150" alt="twitter_thumb_201604_azure-ai-fundamentals-600x600" src="https://github.com/user-attachments/assets/28909eee-1021-4362-94e0-d47170cc44ef" />
